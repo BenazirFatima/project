@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+*{
+    font-family: 'DM Sans';
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    background-color: #F3F3F3;
+}
+.main{
+    position: relative;
+    
+    background: #F3F3F3;
+}
+.nav{
+    
+    
+ 
+
+}
+label.logo{
+    margin-left: 160px;
+    line-height: 112px;
+    
+    height: 23px;
+ width: 67.45792388916016px;
+ left: 0px;
+ top: 10px;
+ border-radius: 0px;
+
+}
+.nav ul{
+    float: right;
+    margin-right: 159.38px;
+    
+
+}
+.nav ul li{
+    display: inline-block;
+    line-height: 115px;
+    margin: 20px;
+    color: black;
+    
+    
+}
+.heading{
+    position: absolute;
+    width: 480px;
+    height: 199px;
+    left: calc(50% - 480px/2 - 320px);
+    top: 360px;
+    
+    /* Heading-1 */
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 97.2%;
+    /* or 58px */
+    
+    letter-spacing: -0.03em;
+    
+    /* Main Black */
+    
+    color: #181717;
+    
+
+}
+.text{
+    margin: 160px;
+    margin-top: 270px;
+    margin-right: 920px;
+}
+.heading2 p{
+    margin: 10px;
+    
+    height: 111px;
+ width: 580px;
+ left: 636px;
+ top: 424px;
+ border-radius: nullpx;
+ position: absolute;
+ width: 580px;
+ height: 111px;
+ left: calc(50% - 580px/2 + 206px);
+ top: 424px;
+ 
+ /* Heading-2 */
+ 
+ font-family: 'DM Sans';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 32px;
+ line-height: 117%;
+ /* or 37px */
+ 
+ letter-spacing: -0.03em;
+ 
+ color: #606060;
+ 
+
+    
+}
